@@ -4,6 +4,12 @@
 # Exclude the folder "Section 4 - Simple Linear Regression"
 !/Part 2 - Regression/Section 4 - Simple Linear Regression/
 
+# Exclude the folder "Section 5 - Multiple Linear Regression"
+!/Part 2 - Regression/Section 5 - Multiple Linear Regression/
+
+# Exclude folder "Section 6 - Polynomial Regression"
+!/Part 2 - Regression/Section 6 - Polynomial Regression/
+
 Part 3 - Classification/
 Part 4 - Clustering/
 Part 5 - Association Rule Learning/
