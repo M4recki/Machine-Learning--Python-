@@ -10,6 +10,9 @@
 # Exclude folder "Section 6 - Polynomial Regression"
 !/Part 2 - Regression/Section 6 - Polynomial Regression/
 
+# Exclude folder "Section 7 - Support Vector Regression (SVR)"
+!/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/
+
 Part 3 - Classification/
 Part 4 - Clustering/
 Part 5 - Association Rule Learning/
