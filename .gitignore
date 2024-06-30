@@ -1,17 +1,8 @@
-# Ignore everything in the folder "Part 2 - Regression"
-/Part 2 - Regression/*
+# Exclude the folder "Part 2 - Regression" and its contents
+!/Part 2 - Regression/**
 
-# Exclude the folder "Section 4 - Simple Linear Regression"
-!/Part 2 - Regression/Section 4 - Simple Linear Regression/
-
-# Exclude the folder "Section 5 - Multiple Linear Regression"
-!/Part 2 - Regression/Section 5 - Multiple Linear Regression/
-
-# Exclude folder "Section 6 - Polynomial Regression"
-!/Part 2 - Regression/Section 6 - Polynomial Regression/
-
-# Exclude folder "Section 7 - Support Vector Regression (SVR)"
-!/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/
+# Ignore folder "Section 9 - Random Forest Regression"
+/Part 2 - Regression/Section 9 - Random Forest Regression/
 
 Part 3 - Classification/
 Part 4 - Clustering/
