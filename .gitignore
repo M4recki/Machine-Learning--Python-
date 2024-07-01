@@ -1,9 +1,3 @@
-# Exclude the folder "Part 2 - Regression" and its contents
-!/Part 2 - Regression/**
-
-# Ignore folder "Section 9 - Random Forest Regression"
-/Part 2 - Regression/Section 9 - Random Forest Regression/
-
 Part 3 - Classification/
 Part 4 - Clustering/
 Part 5 - Association Rule Learning/
