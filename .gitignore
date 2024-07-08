@@ -1,4 +1,9 @@
-Part 3 - Classification/
+# Ignore everything in the folder "Part 3 - Classification"
+/Part 3 - Classification/* 
+
+# Exclude the folder "Section 14 - Logistic Regression"
+!/Part 3 - Classification/Section 14 - Logistic Regression/
+
 Part 4 - Clustering/
 Part 5 - Association Rule Learning/
 Part 6 - Reinforcement Learning/
